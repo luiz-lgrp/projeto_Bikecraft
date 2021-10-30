@@ -7,7 +7,7 @@
 <br>
 <P>Link do site: https://bikecraft-596cd.web.app/sobre.html </P>
 
-<img src="https://github.com/luiz-lgrp/projeto_Bikecraft/blob/main/midia/BikecraftVideo.mp4" width="800" height="400" />
+<img src="https://github.com/luiz-lgrp/projeto_Bikecraft/blob/main/midia/bike.gif" width="800" height="400" />
 
 ## :desktop_computer: Tecnologias utilizadas
 
